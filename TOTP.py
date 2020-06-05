@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #https://pyotp.readthedocs.io/en/latest/
 
 import sys
